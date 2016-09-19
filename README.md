@@ -1,5 +1,4 @@
-
-16.9.19 [深入浅出nodejs学习和项目总结](https://github.com/showzyl/my_blog/issues/1)
+1. [深入浅出nodejs学习和项目总结](https://github.com/showzyl/my_blog/issues/1)
 
 
 
