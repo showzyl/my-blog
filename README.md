@@ -1,5 +1,5 @@
 1. [<深入浅出node>学习和项目总结](https://github.com/showzyl/my_blog/issues/1)
-1. [About redux](https://github.com/showzyl/my_blog/issues/2)
+2. [About redux](https://github.com/showzyl/my_blog/issues/2)
 
 
 
