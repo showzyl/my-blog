@@ -1,4 +1,6 @@
-
+* [window.onload vs $(function(){})](https://github.com/showzyl/my_blog/issues/9)
+* [JQuery fixed 元素 animate 踩坑](https://github.com/showzyl/my_blog/issues/8)
+* [TED. Talking Skill & How To Success](https://github.com/showzyl/my_blog/issues/7)
 * [前端部署流程](https://github.com/showzyl/my_blog/issues/6)
 * [mac software](https://github.com/showzyl/my_blog/issues/5)
 * [npm trick](https://github.com/showzyl/my_blog/issues/4)
