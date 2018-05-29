@@ -1,3 +1,4 @@
+* [`iphone5c`点击事件不生效坑](https://github.com/showzyl/my_blog/issues/11)
 * [`parcel`踩坑记录](https://github.com/showzyl/my_blog/issues/10)
 * [window.onload vs $(function(){})](https://github.com/showzyl/my_blog/issues/9)
 * [JQuery fixed 元素 animate 踩坑](https://github.com/showzyl/my_blog/issues/8)
