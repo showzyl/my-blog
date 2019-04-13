@@ -1,3 +1,4 @@
+* [【踩坑】禁止输入法转换属性](https://github.com/showzyl/my_blog/issues/18)
 * [【踩坑】axios.interceptors 运行多次](https://github.com/showzyl/my_blog/issues/17)
 * [【踩坑】nginx 上传文件大小限制](https://github.com/showzyl/my_blog/issues/16)
 * [【踩坑】`nodejs`爬虫](https://github.com/showzyl/my_blog/issues/15)
